@@ -101,7 +101,3 @@ theme: cactus
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: https://github.com/error9098x/MyBlog.git
-  branch: gh-pages
